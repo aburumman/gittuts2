@@ -1,0 +1,3 @@
+git reomte add origin 
+git remote -v
+git push origim master
